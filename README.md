@@ -1,2 +1,2 @@
 # OneMoreLine
-A multiplayer coding game inspiared by AmongUs 🎮
+A multiplayer coding game inspired by Among Us 🎮
