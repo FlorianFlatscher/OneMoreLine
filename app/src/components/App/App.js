@@ -1,9 +1,15 @@
 import './App.css';
+import { Button, Container } from 'semantic-ui-react'
+import {NavigationBar} from "../NavigationBar/NavigationBar";
+import {SignUp} from "../SignUp/SignUp";
 
 function App() {
   return (
     <div className="App">
-      <h1>One More Line</h1>
+
+        <NavigationBar/>
+
+        <Container><SignUp></SignUp></Container>
     </div>
   );
 }

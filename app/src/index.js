@@ -4,6 +4,7 @@ import './index.css';
 import App from './components/App/App';
 import reportWebVitals from './reportWebVitals';
 import firebase from 'firebase/app'
+import 'semantic-ui-css/semantic.min.css'
 
 //Initialize firebase with .env file
 const app = firebase.initializeApp({
